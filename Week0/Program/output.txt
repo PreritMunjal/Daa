@@ -1,8 +1,0 @@
-Element found in array !
-No. of comparisons: 6
-
-Element found in array !
-No. of comparisons: 3
-
-Element NOT found in array !
-No. of comparisons: 6
